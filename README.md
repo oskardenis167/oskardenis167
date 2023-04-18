@@ -27,8 +27,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oskardenis167&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff) ![](https://github-readme-stats.vercel.app/api?username=oskardenis167&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 <!--  -->
 ## Connect with me
-[![Linkedin](https://img.icons8.com/color/25/linkedin.png)](https://www.linkedin.com/in/oskar-trąpczyński-1b95751b2/)
-[![Facebook](https://img.icons8.com/color/25/facebook-new.png)](https://www.facebook.com/oskar.trapczynski/)
-[![YouTube](https://img.icons8.com/color/25/youtube-play.png)](https://www.youtube.com/c/OskarTT)
-[![Instagram](https://img.icons8.com/fluency/25/instagram-new.png)](https://www.instagram.com/oskarttoffical/)
-[![Spotify](https://img.icons8.com/fluency/512/spotify.png)](https://open.spotify.com/artist/2OVetJ63mx7fvwt2xKPfYY)
+[![Linkedin](https://img.icons8.com/color/50/linkedin.png)](https://www.linkedin.com/in/oskar-trąpczyński-1b95751b2/)
+[![Facebook](https://img.icons8.com/color/50/facebook-new.png)](https://www.facebook.com/oskar.trapczynski/)
+[![YouTube](https://img.icons8.com/color/50/youtube-play.png)](https://www.youtube.com/c/OskarTT)
+[![Instagram](https://img.icons8.com/fluency/50/instagram-new.png)](https://www.instagram.com/oskarttoffical/)
+[![Spotify](https://img.icons8.com/fluency/50/spotify.png)](https://open.spotify.com/artist/2OVetJ63mx7fvwt2xKPfYY)
