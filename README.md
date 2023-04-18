@@ -5,7 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Front+End+Developer;2D+%26+3D+Creator;Music+Producer;DJ;Audio+Engineer;Video+Editor)](https://git.io/typing-svg)
 <!--  -->
 ## ℹ About me
-> Front-End Dev | Music Producer, Engineer, Clubs & Sports Event DJ, 2D & 3D Design | Video Editor, +4M views Youtube, +100k plays Spotify, Product lead of NFT PTW Kinguin cards | Co-worker of 2D animations AD for warta
+> Front-End Dev | Music Producer, Engineer, Clubs & Sports Event DJ, <br>
+> 2D & 3D Design | Video Editor, +4M views Youtube, +100k plays Spotify, <br>
+> Product lead of NFT PTW Kinguin cards | Co-worker of 2D animations AD for warta <br>
 <!-- >  -->
 ## 🦾 Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
