@@ -27,8 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oskardenis167&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff) ![](https://github-readme-stats.vercel.app/api?username=oskardenis167&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 <!--  -->
 ## Connect with me
-![](https://img.icons8.com/color/25/facebook-new.png?url=https://www.facebook.com/oskar.trapczynski/)
-
+[![Facebook](https://img.icons8.com/color/25/facebook-new.png)](https://www.facebook.com/oskar.trapczynski/)
 
 
 
