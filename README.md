@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oskar T.T
+## Oskar Trąpczyński
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Developer;2D+%26+3D+Creator;Music+Producer;DJ;Audio+Engineer;Video+Editor)](https://git.io/typing-svg)
 
 
 **oskardenis167/oskardenis167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
