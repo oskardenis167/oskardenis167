@@ -26,7 +26,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 <!--  -->
 ## 📈 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oskardenis167&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff) ![](https://github-readme-stats.vercel.app/api?username=oskardenis167&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oskartrapczynski&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff) ![](https://github-readme-stats.vercel.app/api?username=oskartrapczynski&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 <!--  -->
 ## Connect with me
 [![Linkedin](https://img.icons8.com/color/50/linkedin.png)](https://www.linkedin.com/in/oskar-trąpczyński-1b95751b2/)
