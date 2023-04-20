@@ -1,4 +1,5 @@
 <!-- ![Baner Photo](https://github.com/oskardenis167/oskardenis167/blob/main/baner.png) -->
+![Baner Video](https://github.com/oskartrapczynski/oskartrapczynski/blob/main/OskarTTPromo.gif)
 
 <!--  -->
 # Oskar T.T
