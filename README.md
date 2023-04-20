@@ -9,7 +9,7 @@
 ## ℹ About me
 > Front-End Dev | Music Producer, Engineer, Clubs & Sports Event DJ, <br>
 > 2D & 3D Design | Video Editor, +4M views Youtube, +100k plays Spotify, <br>
-> Product lead of NFT PTW Kinguin cards | Co-worker of 2D animations AD for warta <br>
+> Product lead of NFT PTW Kinguin cards | Co-worker of 2D animations AD for warta. <br>
 <!-- >  -->
 ## 🦾 Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
