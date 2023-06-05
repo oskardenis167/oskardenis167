@@ -31,8 +31,9 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 <!--  -->
 ## 📈 GitHub Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskartrapczynski)
-![Github stats](https://github-readme-stats.vercel.app/api?username=oskartrapczynski)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskartrapczynski&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskartrapczynski&show_icons=true)
 <!--  -->
 ## Connect with me
 [![Linkedin](https://img.icons8.com/color/50/linkedin.png)](https://www.linkedin.com/in/oskar-trąpczyński-1b95751b2/)
