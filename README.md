@@ -11,8 +11,9 @@
 > 2D & 3D Design | Video Editor, +4M views Youtube, +100k plays Spotify, <br>
 > Product lead of NFT PTW Kinguin cards | Co-worker of 2D animations AD for warta. <br>
 <!--  -->
-- 🦾 I’m currently working on [quizroom](https://github.com/oskartrapczynski/quizroom)
-- 🎓 I’m currently learning **Redux, Testing, MUI**
+- 🦾 I’m currently working on commercial project 'MebelProjekt' (soon I will add public repo with results)
+- 🎓 I’m currently learning **.NET + React**
+- 🎯 I want to learn more about testing
 <!--   -->
 ## 🦾 Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
