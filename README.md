@@ -11,7 +11,7 @@
 > 2D & 3D Design | Video Editor, +4M views Youtube, +100k plays Spotify, <br>
 > Product lead of NFT PTW Kinguin cards | Co-worker of 2D animations AD for warta. <br>
 <!--  -->
-- 🦾 I’m currently working on commercial project 'MebelProjekt' (soon I will add public repo with results)
+- 🦾 I’m currently working on commercial project 'Time2Party' (soon I will add public repo with results)
 - 🎓 I’m currently learning **.NET + React**
 - 🎯 I want to learn more about testing
 <!--   -->
